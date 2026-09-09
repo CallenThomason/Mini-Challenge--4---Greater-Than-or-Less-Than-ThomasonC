@@ -4,8 +4,8 @@ Mini Challenge #4 - Greater Than or Less Than
 9/9/2026
 I used if statements to determine if two user inputs where equal to, greater than, or less than each other. 
 Used ReadLine to collect user inputs as strings and Convert.ToInt32() to turn the strings into integers. 
-Peer Review name: 
-Review: 
+Peer Review name: Zionn Showers
+Review: Code seems to be organized well. Has notes showing what each function does. Looks good!
 include a png of flowchart 
 
 */
