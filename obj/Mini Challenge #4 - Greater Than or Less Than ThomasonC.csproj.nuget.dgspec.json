@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Mini Challenge #4 - Greater Than or Less Than ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj": {}
+    "C:\\Users\\zionn\\Desktop\\Repo\\Mini-Challenge--4---Greater-Than-or-Less-Than-ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Mini Challenge #4 - Greater Than or Less Than ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj": {
+    "C:\\Users\\zionn\\Desktop\\Repo\\Mini-Challenge--4---Greater-Than-or-Less-Than-ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Mini Challenge #4 - Greater Than or Less Than ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj",
+        "projectUniqueName": "C:\\Users\\zionn\\Desktop\\Repo\\Mini-Challenge--4---Greater-Than-or-Less-Than-ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj",
         "projectName": "Mini Challenge #4 - Greater Than or Less Than ThomasonC",
-        "projectPath": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Mini Challenge #4 - Greater Than or Less Than ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj",
-        "packagesPath": "C:\\Users\\calle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calle\\OneDrive\\Desktop\\CSA Combine\\Homework\\Mini Challenge #4 - Greater Than or Less Than ThomasonC\\obj\\",
+        "projectPath": "C:\\Users\\zionn\\Desktop\\Repo\\Mini-Challenge--4---Greater-Than-or-Less-Than-ThomasonC\\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj",
+        "packagesPath": "C:\\Users\\zionn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zionn\\Desktop\\Repo\\Mini-Challenge--4---Greater-Than-or-Less-Than-ThomasonC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\calle\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zionn\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
