@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\bin\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\bin\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\bin\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\bin\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\bin\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\refint\Mini Challenge #4 - Greater Than or Less Than ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\Mini Challenge #4 - Greater Than or Less Than ThomasonC.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge #4 - Greater Than or Less Than ThomasonC\obj\Debug\net10.0\ref\Mini Challenge #4 - Greater Than or Less Than ThomasonC.dll
